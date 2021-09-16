@@ -1,6 +1,7 @@
 # A03
 
 #Part 1:
+
 Github is a website/platform that developers can use to upload their code online. It helps give the public knowledge of
 advancing projects as well as possibly taking incite from other developers.
 It is useful to have when applying to jobs. It becomes a reference point of all work completed and projects in progress.
@@ -37,6 +38,7 @@ press commit at the bottom.
 15. Your project is now on Github.
 
 #Part 2
+
 **Branch** - simply a lightweight movable pointer to a commits.
 
 **Clone** - command line utility which is used to target an existing repository and create a clone, 
